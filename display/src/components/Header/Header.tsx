@@ -1,4 +1,3 @@
-import React from 'react'
 import { Link } from 'react-router-dom'
 import { PiStarFourBold } from 'react-icons/pi'
 import { IoMdBook } from 'react-icons/io'
