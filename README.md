@@ -1,1 +1,1 @@
-# Diplay
+# Display
