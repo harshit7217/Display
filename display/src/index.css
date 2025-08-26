@@ -1,1 +1,9 @@
 @import 'tailwindcss';
+
+.bg-peach {
+    background-color: #FF9776;
+}
+
+.bg-coral {
+  background-color: #FF766D;
+}
